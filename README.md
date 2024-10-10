@@ -1,15 +1,20 @@
-# Hi 👋, I'm Vivek Panchal  
-A passionate MERN Stack developer from India 🇮🇳  
+![MasterHead](https://media.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fi%2Fhozvadf57utb0gjik9me.gif)  
 
-![MasterHead](https://your-image-link-here)  
+# Hi there
+---
 
-## 🌟 About Me
+## 🌟 A passionate MERN Stack developer from India 🇮🇳
 
-- 🔭 I’m currently learning **TypeScript & Next.js**  
-- 🔭 I’m actively looking for **Remote SDE Roles**  
-- 💬 Ask me about **MERN, JavaScript, C++, DSA**  
-- 📫 How to reach me: [vivek.nsut@gmail.com](mailto:vivek.nsut@gmail.com)  
-- 📄 [Know about my experiences](#) (Link to your resume or portfolio)  
+<div style="display: flex; align-items: center;">
+  <img src="https://miro.medium.com/v2/resize:fit:720/format:webp/0*F865G2TT1IRbdCP2.gif" alt="Profile Image" width="150" style="border-radius: 8px; margin-right: 20px;"/>
+  <div>
+    - 🔭 I’m currently learning **TypeScript & Next.js**  
+    - 🔭 I’m actively looking for **Remote SDE Roles**  
+    - 💬 Ask me about **MERN, JavaScript, C++, DSA**  
+    - 📫 How to reach me: [vivek.nsut@gmail.com](mailto:vivek.nsut@gmail.com)  
+    - 📄 [Know about my experiences](#) (Link to your resume or portfolio)  
+  </div>
+</div>
 
 ## 🌐 Connect with me:
 
@@ -27,8 +32,6 @@ A passionate MERN Stack developer from India 🇮🇳
 
 ## 📊 GitHub Stats:
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vivek-panchal&layout=compact)](https://github.com/vivek-panchal)
-
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vivek-panchal&show_icons=true&theme=radical)](https://github.com/vivek-panchal)
-
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vivek-panchal&layout=compact)](https://github.com/vivek-panchal)  
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vivek-panchal&show_icons=true&theme=radical)](https://github.com/vivek-panchal)  
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=vivek-panchal)](https://github.com/vivek-panchal)
