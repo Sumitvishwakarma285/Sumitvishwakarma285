@@ -10,7 +10,7 @@ A passionate MERN Stack developer from India 🇮🇳
       - 🔭 I’m currently learning *Typescript & Next.js*<br>
       - 🌐 I’m looking for *Remote SDE Roles*<br>
       - 💬 Ask me about *MERN, JavaScript, C++, DSA*<br>
-      - 📫 How to reach me *vivek.nsut@gmail.com*<br>
+      - 📫 How to reach me *vsumitvishwakarma@gmail.com*<br>
       - 💡 Know about my [experiences](#)
 </td>
     <td>
