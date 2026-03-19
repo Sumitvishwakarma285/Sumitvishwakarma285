@@ -1,12 +1,26 @@
-![Header](https://media.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fi%2Fhozvadf57utb0gjik9me.gif)
+<div align="center">
+  <img src="https://media.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fi%2Fhozvadf57utb0gjik9me.gif" alt="Header Banner" width="100%" />
+</div>
 
-# Hi there, I'm Sumit Vishwakarma 👋
+<h1 align="center">Hi there, I'm Sumit Vishwakarma 👋</h1>
 
-### Full Stack Developer | MERN Stack Specialist | Problem Solver
+<h3 align="center">Full Stack Developer | MERN Stack Specialist | Problem Solver</h3>
 
-I'm a passionate Full Stack Developer specializing in the MERN stack with a proven track record of building scalable web applications. Currently working as a Software Developer Intern at Zarle Infotech, I've delivered production-ready solutions serving 1000+ users and achieved 95+ PageSpeed scores.
+<p align="center">
+  <a href="https://github.com/Sumitvishwakarma285">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=1572B6&center=true&vCenter=true&width=550&lines=Building+scalable+web+applications;MERN+Stack+Enthusiast;Always+learning+new+technologies" alt="Typing SVG" />
+  </a>
+</p>
+
+<p align="center">
+  I'm a passionate Full Stack Developer specializing in the MERN stack with a proven track record of building scalable web applications. Currently working as a Software Developer Intern at <b>Zarle Infotech</b>, I've delivered production-ready solutions serving 1000+ users and achieved 95+ PageSpeed scores.
+</p>
 
 ---
+
+<table align="center" width="100%">
+  <tr>
+    <td width="60%" valign="top">
 
 ## 🚀 About Me
 
@@ -15,14 +29,43 @@ I'm a passionate Full Stack Developer specializing in the MERN stack with a prov
 - 💼 **Experience:** Software Developer Intern at Zarle Infotech | Freelance Full-Stack Developer
 - 🏆 **Achievements:** Solved 300+ DSA problems | 1400+ HackerRank rating | First Prize in DSA Competition
 - 💬 **Ask me about:** React.js, Node.js, MongoDB, REST APIs, Data Structures & Algorithms
-- 📫 **Reach me:** sumitvishwakarma285@gmail.com
+- 📫 **Reach me:** [sumitvishwakarma285@gmail.com](mailto:sumitvishwakarma285@gmail.com)
 - 🌍 **Open to:** Remote Software Development roles and exciting projects
+
+    </td>
+    <td width="40%" valign="top">
+
+## 📫 Let's Connect
+
+<p align="left">
+  <a href="https://linkedin.com/in/sumitvishwakarma" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://github.com/Sumitvishwakarma285" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <br/>
+  <a href="mailto:sumitvishwakarma285@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="#" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+  </a>
+</p>
+
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=Sumitvishwakarma285&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile Views" />
+</p>
+
+    </td>
+  </tr>
+</table>
 
 ---
 
 ## 🛠️ Tech Stack
 
-**Frontend:**  
+**Frontend** <br/>
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 ![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
@@ -32,7 +75,7 @@ I'm a passionate Full Stack Developer specializing in the MERN stack with a prov
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-**Backend:**  
+**Backend** <br/>
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
@@ -40,12 +83,12 @@ I'm a passionate Full Stack Developer specializing in the MERN stack with a prov
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white)
 
-**Programming & CS Fundamentals:**  
+**Programming & CS Fundamentals** <br/>
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![DSA](https://img.shields.io/badge/DSA-FF6B6B?style=for-the-badge&logo=leetcode&logoColor=white)
 
-**Tools & DevOps:**  
+**Tools & DevOps** <br/>
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
@@ -56,83 +99,75 @@ I'm a passionate Full Stack Developer specializing in the MERN stack with a prov
 
 ## 💼 Professional Experience
 
-### Software Developer Intern | Zarle Infotech
-*Current Position*
-
-- Developed full-stack applications improving performance by 30% through database optimization
-- Built 3+ responsive websites with RESTful APIs serving 1000+ users
-- Maintained 99% application uptime through CI/CD pipelines and comprehensive documentation
-- Collaborated in Agile environment with daily standups and code reviews
-
-### Full-Stack Web Developer (Freelance) | Shyam Global Trade
-*August 2024*
-
-- Architected end-to-end MERN stack business website with dynamic catalog and admin dashboard
-- Achieved 95+ PageSpeed score and 100% accessibility through optimization techniques
-- Streamlined business operations by 40% with comprehensive CMS and analytics dashboard
+<table>
+  <tr>
+    <td width="50%">
+      <h3>Software Developer Intern</h3>
+      <i><b>Zarle Infotech</b> (Current Position)</i>
+      <ul>
+        <li>Developed full-stack applications improving performance by 30% through database optimization</li>
+        <li>Built 3+ responsive websites with RESTful APIs serving 1000+ users</li>
+        <li>Maintained 99% application uptime through CI/CD pipelines</li>
+      </ul>
+    </td>
+    <td width="50%">
+      <h3>Full-Stack Web Developer</h3>
+      <i><b>Shyam Global Trade</b> (August 2024)</i>
+      <ul>
+        <li>Architected end-to-end MERN stack business website with dynamic catalog</li>
+        <li>Achieved 95+ PageSpeed score and 100% accessibility through optimization</li>
+        <li>Streamlined business operations by 40% with comprehensive CMS</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
 ---
 
 ## 🚀 Featured Projects
 
-### [TalkBridge - Language Learning Platform](https://github.com/yourusername/talkbridge)
-**Tech Stack:** MERN Stack, WebRTC, Stream SDK
-
-A full-stack social platform for language learning with real-time chat, video calling, and friend recommendations.
-
-- ✅ Real-time messaging and peer-to-peer video calling
-- ✅ JWT authentication with HTTP-only cookies and bcrypt encryption
-- ✅ Handles 100+ concurrent users with optimized MongoDB schemas
-- ✅ Responsive UI built with React.js, Tailwind CSS, and DaisyUI
-
-### [Gmail Clone - Full-Featured Email Application](https://github.com/yourusername/gmail-clone)
-**Tech Stack:** React.js, Redux Toolkit, Firebase
-
-Production-ready Gmail clone with authentic user experience and advanced features.
-
-- ✅ Firebase Authentication with Google OAuth 2.0
-- ✅ Real-time database operations with Cloud Firestore
-- ✅ 90+ Lighthouse score through code splitting and lazy loading
-- ✅ Complete email management: compose, inbox, starred, trash
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center"><a href="https://github.com/Sumitvishwakarma285/TalkBridge">TalkBridge</a></h3>
+      <p align="center"><i>Language Learning Platform</i></p>
+      <p><b>Tech Stack:</b> MERN Stack, WebRTC, Stream SDK</p>
+      <p>A full-stack social platform for language learning with real-time chat, video calling, and friend recommendations.</p>
+      <ul>
+        <li>✅ Real-time messaging and peer-to-peer video calling</li>
+        <li>✅ JWT authentication with HTTP-only cookies and bcrypt encryption</li>
+        <li>✅ Handles 100+ concurrent users with optimized MongoDB schemas</li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center"><a href="https://github.com/Sumitvishwakarma285/gmailclone">Gmail Clone</a></h3>
+      <p align="center"><i>Full-Featured Email Application</i></p>
+      <p><b>Tech Stack:</b> React.js, Redux Toolkit, Firebase</p>
+      <p>Production-ready Gmail clone with authentic user experience and advanced features.</p>
+      <ul>
+        <li>✅ Firebase Authentication with Google OAuth 2.0</li>
+        <li>✅ Real-time database operations with Cloud Firestore</li>
+        <li>✅ 90+ Lighthouse score through code splitting and lazy loading</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
 ---
 
 ## 📊 GitHub Statistics
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sumitvishwakarma&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="165">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sumitvishwakarma&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="165">
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sumitvishwakarma&theme=tokyonight&hide_border=true&layout=compact&langs_count=8" alt="Top Languages">
-</p>
-
----
-
-## 🏆 Achievements
-
-- 🥇 **First Prize** - Data Structures & Algorithms Competition (2024)
-- 💯 **300+ Problems Solved** on LeetCode and GeeksforGeeks
-- ⭐ **1400+ Rating** on HackerRank
-- 🎯 **95+ PageSpeed Score** on production websites
-- 📜 **Certified** in Software Engineering & Web Development (Forage)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Sumitvishwakarma285&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="165" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sumitvishwakarma285&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="165" />
+</div>
+<br />
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sumitvishwakarma285&theme=tokyonight&hide_border=true&layout=compact&langs_count=8" alt="Top Languages" />
+</div>
 
 ---
 
-## 📫 Let's Connect
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sumitvishwakarma)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Sumitvishwakarma)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sumitvishwakarma285@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](#)
-
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Sumitvishwakarma&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
-</p>
-
-<p align="center">
+<div align="center">
   <i>⚡ "Building scalable solutions, one commit at a time" ⚡</i>
-</p>
+</div>
