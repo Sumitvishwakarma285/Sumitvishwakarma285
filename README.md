@@ -172,3 +172,10 @@
 <div align="center">
   <i>⚡ "Building scalable solutions, one commit at a time" ⚡</i>
 </div>
+
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Sumitvishwakarma285/Sumitvishwakarma285/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+</p>
